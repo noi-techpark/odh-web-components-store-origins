@@ -1,0 +1,12 @@
+[
+  {
+    "uuid": "01fefe03-6d9c-4e71-9e3b-a284e0dcc1cd",
+    "url": "https://github.com/uhufa/odh-web-components-store-demo-ca.git",
+    "api": "github"
+  },
+  {
+    "uuid": "db7c43e2-d7fd-4aa7-9be2-dcb7cbe540bc",
+    "url": "https://github.com/uhufa/odh-web-components-store-demo-cb.git",
+    "api": "github"
+  }
+]
