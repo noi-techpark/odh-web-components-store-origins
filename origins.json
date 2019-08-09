@@ -8,5 +8,10 @@
     "uuid": "db7c43e2-d7fd-4aa7-9be2-dcb7cbe540bc",
     "url": "https://github.com/uhufa/odh-web-components-store-demo-cb.git",
     "api": "github"
+  },
+  {
+    "uuid": "c115c741-e236-4fb9-9420-5a7dfffba933",
+    "url": "https://github.com/uhufa/webcomp-generic-map.git",
+    "api": "github"
   }
 ]
