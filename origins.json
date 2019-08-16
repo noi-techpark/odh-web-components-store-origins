@@ -13,5 +13,10 @@
     "uuid": "c115c741-e236-4fb9-9420-5a7dfffba933",
     "url": "https://github.com/uhufa/webcomp-generic-map.git",
     "api": "github"
+  },
+  {
+    "uuid": "6c8ee78c-7f97-46a3-8b16-22371cd484a2",
+    "url": "https://github.com/uhufa/webcomp-beacons-map-table.git",
+    "api": "github"
   }
 ]
