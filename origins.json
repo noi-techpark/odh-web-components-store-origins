@@ -18,5 +18,10 @@
     "uuid": "2e117771-7047-4e26-b313-8b1a315ae75f",
     "url": "https://github.com/noi-techpark/webcomp-beacons-map-table.git",
     "api": "github"
+  },
+  {
+    "uuid": "7620f04d-ed08-4770-bbda-dfe959ae078e",
+    "url": "https://github.com/noi-techpark/webcomp-smartmobility.git",
+    "api": "github"
   }
 ]
