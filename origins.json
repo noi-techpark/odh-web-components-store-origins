@@ -23,5 +23,10 @@
     "uuid": "7620f04d-ed08-4770-bbda-dfe959ae078e",
     "url": "https://github.com/noi-techpark/webcomp-smartmobility.git",
     "api": "github"
+  },
+  {
+    "uuid": "c18bad21-d04d-401c-bad8-a4987ca182c4",
+    "url": "https://github.com/noi-techpark/webcomp-publictransport.git",
+    "api": "github"
   }
 ]
