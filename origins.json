@@ -33,15 +33,5 @@
     "uuid": "991e1fd5-8eaf-4d7b-9ca4-dea7544b6c02",
     "url": "https://github.com/noi-techpark/webcomp-weather.git",
     "api": "github"
-  },
-  {
-    "uuid": "e1d9ea6f-36ae-40fe-bf6f-add185a2a29d",
-    "url": "https://github.com/noi-techpark/webcomp-weather-video.git",
-    "api": "github"
-  },
-  {
-    "uuid": "fa42e0f0-149a-418c-8edf-f4c99b6eea4f",
-    "url": "https://github.com/noi-techpark/webcomp-weather-mountain.git",
-    "api": "github"
   }
 ]
