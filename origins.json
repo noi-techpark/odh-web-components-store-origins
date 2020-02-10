@@ -1,5 +1,35 @@
 [
   {
+    "uuid": "f594de36-0136-4c27-a0e6-570fa7014129",
+    "url": "https://github.com/noi-techpark/webcomp-mobility-echarging-dashboard.git",
+    "api": "github"
+  },
+  {
+    "uuid": "98013c75-f27c-414e-aff9-c58ed760e791",
+    "url": "https://github.com/noi-techpark/webcomp-mobility-echarging-map.git",
+    "api": "github"
+  },
+  {
+    "uuid": "8d194fde-5061-4257-9580-56eb0aef4cef",
+    "url": "https://github.com/noi-techpark/webcomp-generic-map.git",
+    "api": "github"
+  },
+  {
+    "uuid": "2e117771-7047-4e26-b313-8b1a315ae75f",
+    "url": "https://github.com/noi-techpark/webcomp-beacons-map-table.git",
+    "api": "github"
+  },
+  {
+    "uuid": "7620f04d-ed08-4770-bbda-dfe959ae078e",
+    "url": "https://github.com/noi-techpark/webcomp-smartmobility.git",
+    "api": "github"
+  },
+  {
+    "uuid": "991e1fd5-8eaf-4d7b-9ca4-dea7544b6c02",
+    "url": "https://github.com/noi-techpark/webcomp-weather.git",
+    "api": "github"
+  },
+  {
     "uuid": "e1d9ea6f-36ae-40fe-bf6f-add185a2a29d",
     "url": "https://github.com/noi-techpark/webcomp-weather-video.git",
     "api": "github"
@@ -12,11 +42,6 @@
   {
     "uuid": "042999d0-de5a-4907-a1e6-fcefd5e53e98",
     "url": "https://github.com/noi-techpark/webcomp-weather-forecast.git",
-    "api": "github"
-  },
-  {
-    "uuid": "991e1fd5-8eaf-4d7b-9ca4-dea7544b6c02",
-    "url": "https://github.com/noi-techpark/webcomp-weather.git",
     "api": "github"
   }
 ]
