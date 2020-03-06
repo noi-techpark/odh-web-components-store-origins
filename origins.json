@@ -43,5 +43,10 @@
     "uuid": "042999d0-de5a-4907-a1e6-fcefd5e53e98",
     "url": "https://github.com/noi-techpark/webcomp-weather-forecast.git",
     "api": "github"
+  },
+  {
+    "uuid": "8282479b-dc13-5012-939f-7a0196348dca",
+    "url": "https://github.com/noi-techpark/webcomp-tourism-skiareas.git",
+    "api": "github"
   }
 ]
