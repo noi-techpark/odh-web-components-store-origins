@@ -48,5 +48,10 @@
     "uuid": "7382179a-fc13-4012-939f-4a0196348ccb",
     "url": "https://github.com/noi-techpark/webcomp-tourism-skiareas.git",
     "api": "github"
+  },
+  {
+    "uuid": "f1321372-6629-4912-a331-77d5d91dd646",
+    "url": "https://github.com/noi-techpark/webcomp-creative-industries.git",
+    "api": "github"
   }
 ]
