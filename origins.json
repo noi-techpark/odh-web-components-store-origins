@@ -53,5 +53,50 @@
     "uuid": "f1321372-6629-4912-a331-77d5d91dd646",
     "url": "https://github.com/noi-techpark/webcomp-creative-industries.git",
     "api": "github"
+  },
+  {
+    "uuid": "715906f8-3865-4e91-85a4-26eac7e99b4b",
+    "url": "https://github.com/noi-techpark/webcomp-pages-booking.git",
+    "api": "github"
+  },
+  {
+    "uuid": "ec74365e-72e2-498c-be51-5392214cdad1",
+    "url": "https://github.com/noi-techpark/webcomp-pages-cards.git",
+    "api": "github"
+  },
+  {
+    "uuid": "c13ca425-314f-483a-9056-30629213e7af",
+    "url": "https://github.com/noi-techpark/webcomp-pages-contents.git",
+    "api": "github"
+  },
+  {
+    "uuid": "8b7003c6-9927-4efb-8dac-1bf078812506",
+    "url": "https://github.com/noi-techpark/webcomp-pages-cookies-bot.git",
+    "api": "github"
+  },
+  {
+    "uuid": "724150f9-c52f-4032-9558-0aff98a7d5f3",
+    "url": "https://github.com/noi-techpark/webcomp-pages-directions.git",
+    "api": "github"
+  },
+  {
+    "uuid": "46da9649-27f3-444f-899a-b8faabecdf0d",
+    "url": "https://github.com/noi-techpark/webcomp-pages-hotjar.git",
+    "api": "github"
+  },
+  {
+    "uuid": "88df2632-f75d-49b1-bef4-cada37c7d2aa",
+    "url": "https://github.com/noi-techpark/webcomp-pages-listing.git",
+    "api": "github"
+  },
+  {
+    "uuid": "9c081309-ef5b-46ae-b725-4316de74a461",
+    "url": "https://github.com/noi-techpark/webcomp-pages-showcase.git",
+    "api": "github"
+  },
+  {
+    "uuid": "6953e5d3-bd9f-4e3b-8a64-6489251416da",
+    "url": "https://github.com/noi-techpark/webcomp-pages-tabs.git",
+    "api": "github"
   }
 ]
