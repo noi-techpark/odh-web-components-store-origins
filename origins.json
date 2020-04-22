@@ -98,5 +98,10 @@
     "uuid": "6953e5d3-bd9f-4e3b-8a64-6489251416da",
     "url": "https://github.com/noi-techpark/webcomp-pages-tabs.git",
     "api": "github"
+  },
+  {
+    "uuid": "567cb2e2-3e5d-421a-bf85-b8ecc500aab9",
+    "url": "https://github.com/noi-techpark/webcomp-kg.git",
+    "api": "github"
   }
 ]
