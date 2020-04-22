@@ -53,5 +53,10 @@
     "uuid": "f1321372-6629-4912-a331-77d5d91dd646",
     "url": "https://github.com/noi-techpark/webcomp-creative-industries.git",
     "api": "github"
+  },
+  {
+    "uuid": "567cb2e2-3e5d-421a-bf85-b8ecc500aab9",
+    "url": "https://github.com/noi-techpark/webcomp-kg.git",
+    "api": "github"
   }
 ]
