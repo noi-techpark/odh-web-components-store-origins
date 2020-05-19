@@ -103,5 +103,10 @@
     "uuid": "567cb2e2-3e5d-421a-bf85-b8ecc500aab9",
     "url": "https://github.com/noi-techpark/webcomp-kg.git",
     "api": "github"
+  },
+  {
+    "uuid": "b199dbd5-508c-4de2-b06c-401ff6151ad0",
+    "url": "https://github.com/noi-techpark/webcomp-publictransport.git",
+    "api": "github"
   }
 ]
