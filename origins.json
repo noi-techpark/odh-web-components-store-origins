@@ -108,5 +108,10 @@
     "uuid": "b199dbd5-508c-4de2-b06c-401ff6151ad0",
     "url": "https://github.com/noi-techpark/webcomp-publictransport.git",
     "api": "github"
+  },
+  {
+    "uuid": "ffe771ee-1786-11eb-adc1-0242ac120002",
+    "url": "https://github.com/noi-techpark/webcomp-mobility-traffic.git",
+    "api": "github"
   }
 ]
