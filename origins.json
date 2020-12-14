@@ -1,9 +1,14 @@
 [
   {
+    "uuid": "f113a6c6-445f-4633-a901-b8004353c903",
+    "url": "https://github.com/noi-techpark/webcomp-gastronomies.git",
+    "api": "github"
+  },
+  {
     "uuid": "8ed52ba6-ce1d-45c8-83bb-062d688b4326",
     "url": "https://github.com/noi-techpark/webcomp-meteo-generic.git",
     "api": "github"
-  },
+  },  
   {
     "uuid": "ffe771ee-1786-11eb-adc1-0242ac120002",
     "url": "https://github.com/noi-techpark/webcomp-mobility-traffic.git",
