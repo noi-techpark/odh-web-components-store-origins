@@ -133,5 +133,10 @@
     "uuid": "543ed85d-8280-4240-8625-4ee5102710ff",
     "url": "https://github.com/noi-techpark/webcomp-parking.git",
     "api": "github"
+  },
+  {
+    "uuid": "430eead9-0bbc-4832-b4c0-78236d77a36b",
+    "url": "https://github.com/noi-techpark/webcomp-mountain-area.git",
+    "api": "github"
   }
 ]
