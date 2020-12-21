@@ -138,5 +138,10 @@
     "uuid": "430eead9-0bbc-4832-b4c0-78236d77a36b",
     "url": "https://github.com/noi-techpark/webcomp-mountain-area.git",
     "api": "github"
+  },
+  {
+    "uuid": "1cba7d30-8331-4b4a-b528-c4e03279365c",
+    "url": "https://github.com/noi-techpark/webcomp-events.git",
+    "api": "github"
   }
 ]
