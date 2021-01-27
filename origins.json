@@ -143,5 +143,10 @@
     "uuid": "1cba7d30-8331-4b4a-b528-c4e03279365c",
     "url": "https://github.com/noi-techpark/webcomp-events.git",
     "api": "github"
+  },
+  {
+    "uuid": "32c2bef1-a691-4b93-bc41-56ecb88e39f0",
+    "url": "https://github.com/noi-techpark/webcomp-recipe.git",
+    "api": "github"
   }
 ]
