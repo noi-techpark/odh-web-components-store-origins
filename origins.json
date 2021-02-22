@@ -63,5 +63,10 @@
     "uuid": "9232cce6-2f39-11eb-adc1-0242ac120002",
     "url": "https://github.com/noi-techpark/webcomp-maps-noi.git",
     "api": "github"
+  },
+  {
+    "uuid": "0e5fbede-4a21-4dd3-bf85-7d2be71dfb12",
+    "url": "https://github.com/noi-techpark/webcomp-activity-poi.git",
+    "api": "github"
   }
 ]
