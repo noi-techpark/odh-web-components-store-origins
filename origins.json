@@ -158,5 +158,10 @@
     "uuid": "0e5fbede-4a21-4dd3-bf85-7d2be71dfb12",
     "url": "https://github.com/noi-techpark/webcomp-activity-poi.git",
     "api": "github"
+  },
+  {
+    "uuid": "79114867-4403-4908-b3b6-b459bdee864b",
+    "url": "https://github.com/noi-techpark/webcomp-routeplanner.git",
+    "api": "github"
   }
 ]
