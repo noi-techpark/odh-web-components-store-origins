@@ -65,6 +65,11 @@
     "api": "github"
   },
   {
+    "uuid": "543ed85d-8280-4240-8625-4ee5102710ff",
+    "url": "https://github.com/noi-techpark/webcomp-parking.git",
+    "api": "github"
+  },
+  {
     "uuid": "0e5fbede-4a21-4dd3-bf85-7d2be71dfb12",
     "url": "https://github.com/noi-techpark/webcomp-activity-poi.git",
     "api": "github"
