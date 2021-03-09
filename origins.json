@@ -1,5 +1,10 @@
 [
   {
+    "uuid": "8ed52ba6-ce1d-45c8-83bb-062d688b4326",
+    "url": "https://github.com/noi-techpark/webcomp-meteo-generic.git",
+    "api": "github"
+  },
+  {
     "uuid": "f594de36-0136-4c27-a0e6-570fa7014129",
     "url": "https://github.com/noi-techpark/webcomp-mobility-echarging-dashboard.git",
     "api": "github"
