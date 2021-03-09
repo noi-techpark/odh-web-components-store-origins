@@ -80,6 +80,11 @@
     "api": "github"
   },
   {
+    "uuid": "1cba7d30-8331-4b4a-b528-c4e03279365c",
+    "url": "https://github.com/noi-techpark/webcomp-events.git",
+    "api": "github"
+  },
+  {
     "uuid": "0e5fbede-4a21-4dd3-bf85-7d2be71dfb12",
     "url": "https://github.com/noi-techpark/webcomp-activity-poi.git",
     "api": "github"
