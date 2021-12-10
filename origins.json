@@ -158,6 +158,10 @@
     "uuid": "79114867-4403-4908-b3b6-b459bdee864b",
     "url": "https://github.com/noi-techpark/webcomp-routeplanner.git",
     "api": "github"
+  },
+  {
+    "uuid": "3da8dc22-f489-4c4c-9f07-f7a644801e7a",
+    "url": "https://github.com/noi-techpark/webcomp-flightdata.git",
+    "api": "github"
   }
 ]
-
