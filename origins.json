@@ -163,5 +163,10 @@
     "uuid": "3da8dc22-f489-4c4c-9f07-f7a644801e7a",
     "url": "https://github.com/noi-techpark/webcomp-flightdata.git",
     "api": "github"
+  },
+  {
+    "uuid": "e31cbf0b-b27a-475d-8728-516c89cd6a40",
+    "url": "https://github.com/noi-techpark/webcomp-specialannouncement.git",
+    "api": "github"
   }
 ]
