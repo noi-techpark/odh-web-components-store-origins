@@ -168,5 +168,10 @@
     "uuid": "e31cbf0b-b27a-475d-8728-516c89cd6a40",
     "url": "https://github.com/noi-techpark/webcomp-specialannouncement.git",
     "api": "github"
+  },
+  {
+    "uuid": "15a4b192-eb02-42e0-94e3-8f2aebf4e229",
+    "url": "https://github.com/noi-techpark/webcomp-carsharing.git",
+    "api": "github"
   }
 ]
